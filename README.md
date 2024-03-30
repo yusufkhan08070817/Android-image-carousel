@@ -1,5 +1,5 @@
 # Android Image Carousel Library
-<img src="[image_url](https://soliloquywp.com/wp-content/uploads/2016/03/carousel_addon.png)" alt="Image Description" width="200" height="200">
+<img src="https://soliloquywp.com/wp-content/uploads/2016/03/carousel_addon.png" alt="Image Description" width="200" height="200">
 
 ## Overview
 The Android Image Carousel Library is a versatile and customizable solution for implementing image carousels in Android applications. This library simplifies the process of integrating image carousels, allowing developers to create engaging and visually appealing interfaces with minimal effort.
