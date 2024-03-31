@@ -21,6 +21,6 @@ class MainActivity : AppCompatActivity() {
 
        val v: Image_Carousel=findViewById(R.id.ima)
 
-        v.setImage_Carousel(this,R.color.gray,R.color.black,5000,Data,false,null)
+        v.setImage_Carousel(this,R.color.gray,R.color.black,5000,Data,true, com.example.animation.R.anim.zero_to_orignal)
     }
 }

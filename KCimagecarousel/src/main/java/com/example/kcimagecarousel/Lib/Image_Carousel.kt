@@ -62,10 +62,11 @@ class Image_Carousel  @JvmOverloads constructor(
 
         if (iscustomAnimation)
         {
-            Imagecrosole(context,ImageCarosel,Thumb,thumbcolor,backthumb,Delay, data,null)
-        }else{
-
             Imagecrosole(context,ImageCarosel,Thumb,thumbcolor,backthumb,Delay, data,animatation)
+
+        }else{
+            Imagecrosole(context,ImageCarosel,Thumb,thumbcolor,backthumb,Delay, data,null)
+
         }
 
     }
