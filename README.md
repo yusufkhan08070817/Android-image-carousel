@@ -26,13 +26,13 @@ dependencyResolutionManagement {
 ## Step 2. Add the dependency
 ````
 dependencies {
-	        implementation 'com.github.yusufkhan08070817:Android-image-carousel:1.0.1'
+	        implementation 'com.github.yusufkhan08070817:Android-image-carousel:1.0.2'
 	}
 ````
 for kotlin gradle
 ````
 dependencies {
-	        implementation ("com.github.yusufkhan08070817:Android-image-carousel:1.0.1")
+	        implementation ("com.github.yusufkhan08070817:Android-image-carousel:1.0.2")
 	}
 ````
 Sync your project with Gradle to import the library.
